@@ -44,6 +44,7 @@ This guide prepares you for mastering Java development, from fundamentals to adv
 - [Instagram HLD for handling millions of likes on post](https://medium.com/@dhruvtechbytes/how-instagram-handles-millions-of-likes-on-a-post-sharded-counters-explained-c3e325b15508)
 - [Designing the YouTube Video Upload Pipeline at Scale](https://medium.com/@dhruvtechbytes/designing-the-youtube-video-upload-pipeline-at-scale-5f4e13909f45)
 - [GStack YC](https://github.com/garrytan/gstack)
+- [PII Encryption in MongoDB](https://medium.com/@dhruvtechbytes/pii-encryption-in-mongodb-zero-performance-trade-off-pii-personally-identifiable-information-68d45b180d2f)
 
 ## Deployment Strategy
 - [Type of Deployment Strategt in Industry](https://medium.com/@dhruvtechbytes/deployment-strategies-explained-from-downtime-to-zero-risk-releases-b3cea169f6bf)
