@@ -118,3 +118,67 @@ HR values team-fit and interpersonal compatibility.
 ---
 
 # 4. 30-Second Behavioral Introduction (Use in HR Round)
+- "I’m someone who works with an ownership mindset and focuses on creating clarity before execution.
+I collaborate effectively across cross-functional teams and rely on data-backed decisions.
+I stay calm under pressure, communicate transparently, and align closely with stakeholder needs.
+My goal is always to deliver consistent outcomes and contribute long-term value to the organization."
+
+---
+
+# 5. Behavioral Do’s and Don’ts
+
+## Do’s
+- Show confidence (not arrogance)  
+- Use structured answers (STAR method)  
+- Maintain a stable, composed tone  
+- Demonstrate business understanding  
+- Speak concisely and with clarity  
+
+## Don’ts
+- Don’t speak negatively about previous employers  
+- Don’t overshare personal details  
+- Avoid filler words (“umm”, “like”, “basically”)  
+- Don’t sound overly scripted  
+
+---
+
+# 6. Psychological Techniques to Build HR Bias
+
+## 6.1 Mirroring  
+Subtly match HR’s tone and pace → increases trust.
+
+## 6.2 Power Words  
+Use: clarity, alignment, ownership, impact, structure.
+
+## 6.3 Positive Emotional Anchoring  
+Examples:
+- “I value transparent communication.”  
+- “I adapt quickly to new environments.”
+
+## 6.4 Consistency Signaling  
+Highlight past consistency → HR perceives reliability.
+
+---
+
+# 7. Ready-to-Use HR Conversation Enhancers
+
+## When HR asks about strengths
+- My core strengths are ownership, clarity-driven execution,
+and the ability to collaborate with cross-functional teams
+while staying aligned with business priorities.
+
+## When HR asks about challenges
+- I approach challenges with a calm mindset and break them down
+using root-cause analysis and structured problem-solving.
+
+## When HR asks why we should hire you
+- Because I bring a combination of ownership, business alignment,
+and consistent delivery—qualities that ensure I contribute
+value from day one.
+
+---
+
+# 8. Final Reminder
+**Behavior > Skills in HR Round.**  
+- Speak with clarity, calmness, and confidence—  
+and you will create a strong subconscious impact.
