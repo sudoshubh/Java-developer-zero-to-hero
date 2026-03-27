@@ -5,14 +5,14 @@ The system should calculate the final payable amount based on the following rule
 
 1. Each cart contains multiple items.
 2. Each item has:
--  name
--  price
--  quantity
+  -  name
+  -  price
+  -  quantity
 3. Apply discounts
--  If total cart value > ₹5000 → Apply 10% discount
--  If total cart value > ₹10000 → Apply 20% discount
+  -  If total cart value > ₹5000 → Apply 10% discount
+  -  If total cart value > ₹10000 → Apply 20% discount
 4. If coupon code "FLAT500" is applied:
-- Deduct ₹500 (only if total after discount ≥ ₹2000)
+  - Deduct ₹500 (only if total after discount ≥ ₹2000)
 5. Add GST of 18% on the final discounted amount.
 
 ---
