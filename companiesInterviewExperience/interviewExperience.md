@@ -7,7 +7,6 @@
     JDBC connection string issue how to handle the concatenation string in 
     Leet code Medium question
 ---
-
 - Technical round 2
 ---
 Desing a full Builder design Pattern
