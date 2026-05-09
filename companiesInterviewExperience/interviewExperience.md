@@ -1,14 +1,11 @@
-***
- Company Cloudsufi Cloud based company
-
-***
+Company Cloudsufi Cloud based company
 
 - Technical round 1
     JDBC connection string issue how to handle the concatenation string in 
     Leet code Medium question
----
+
 - Technical round 2
----
+
 Desing a full Builder design Pattern
 
 PaymentStrategy  <--- Interface
@@ -57,8 +54,11 @@ public class PaymentService {
 
 4. Client Code
 
-public class Main {
-    public static void main(String[] args) {
+public class Main 
+{
+    
+    public static void main(String[] args) 
+    {
         PaymentService service = new PaymentService(new UPIPayment());
         service.doPayment(1000);
 
