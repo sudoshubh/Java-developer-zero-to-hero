@@ -51,11 +51,4 @@ public class KthLargestElement {
             nums[j] = temp;
         }
     }
-
-    // Approach 2: sorting
-    // Arrays.sort(nums);
-    // // 1,2,3,4,5,6
-    // int res=0;
-    // res = nums[nums.length-k];
-    // return res;
 }
